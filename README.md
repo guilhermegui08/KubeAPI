@@ -30,19 +30,19 @@ To get started with KubeAPI, follow the instructions below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/KubeAPI.git```
+   git clone https://github.com/yourusername/KubeAPI.git
 
 2. **Navigate to the project directory**:
    ```bash
-   git clone https://github.com/yourusername/KubeAPI.git```
+   git clone https://github.com/yourusername/KubeAPI.git
 
 3. **Install dependencies**:
    ```bash
-   git clone https://github.com/yourusername/KubeAPI.git```
+   git clone https://github.com/yourusername/KubeAPI.git
 
 4. **Run the application**:
    ```bash
-   git clone https://github.com/yourusername/KubeAPI.git```
+   git clone https://github.com/yourusername/KubeAPI.git
 
 ## License
 This project is licensed under the GPL-3.0 License. See the LICENSE` file for details.
