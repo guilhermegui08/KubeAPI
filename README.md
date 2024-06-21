@@ -15,6 +15,10 @@ KubeAPI offers a comprehensive set of features to streamline the orchestration o
 - **Deployments**: List, create, and delete deployments.
 - **Services/Ingress**: List, create, and delete services and ingress.
 
+## Voice Assistant
+
+KubeAPI includes an innovative voice assistant feature to enhance user interaction. The voice assistant allows users to create ingress services using voice commands, making the management of Kubernetes resources more intuitive and accessible.
+
 ## Technical Details
 
 - **Programming Language**: Python
