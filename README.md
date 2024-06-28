@@ -3,6 +3,9 @@
 ## Overview
 
 **KubeAPI** is an application designed to serve as a frontend for managing resources provided by the Kubernetes orchestrator, specifically using K3s. This project was developed as part of a laboratory assignment for Information Technologies 23/24, aiming to create a user-friendly interface for Kubernetes resource management via the Kubernetes REST API.
+![imagem](https://github.com/guilhermegui08/KubeAPI/assets/112128696/17866c64-4631-4548-ac18-a08410e99ca7)
+
+
 
 ## Features
 
